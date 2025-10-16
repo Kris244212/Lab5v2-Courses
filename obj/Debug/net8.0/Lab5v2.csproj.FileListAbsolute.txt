@@ -1,0 +1,17 @@
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\bin\Debug\net8.0\Lab5v2.exe
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\bin\Debug\net8.0\Lab5v2.deps.json
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\bin\Debug\net8.0\Lab5v2.runtimeconfig.json
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\bin\Debug\net8.0\Lab5v2.dll
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\bin\Debug\net8.0\Lab5v2.pdb
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.dll
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\refint\Lab5v2.dll
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.pdb
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\ref\Lab5v2.dll
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.csproj.AssemblyReference.cache
+C:\Users\Kristina\Desktop\Lab5v2 — Курси та слухачі\obj\Debug\net8.0\Lab5v2.csproj.Up2Date
