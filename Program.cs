@@ -65,7 +65,7 @@ namespace Lab5v2
             }
 
             AnsiConsole.Write(table);
-        Questions.Print();
+      
 
         }
     }
